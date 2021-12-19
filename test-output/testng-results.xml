@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-19T22:45:12 ICT" name="Default suite" finished-at="2021-11-19T22:46:19 ICT" duration-ms="67212">
+    <groups>
+    </groups>
+    <test started-at="2021-11-19T22:45:12 ICT" name="Default test" finished-at="2021-11-19T22:46:19 ICT" duration-ms="67212">
+      <class name="test.TCs_Contact">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:45:12 ICT" name="beforeTest" finished-at="2021-11-19T22:45:16 ICT" duration-ms="4087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:45:16 ICT" name="setUp" finished-at="2021-11-19T22:45:17 ICT" duration-ms="1216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="SendmailUnsuccessfullyEmptyPW()[pri:1, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:45:17 ICT" name="SendmailUnsuccessfullyEmptyPW" finished-at="2021-11-19T22:45:20 ICT" duration-ms="2836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendmailUnsuccessfullyEmptyPW -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:45:20 ICT" name="teardown" finished-at="2021-11-19T22:45:22 ICT" duration-ms="2214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:45:22 ICT" name="beforeTest" finished-at="2021-11-19T22:45:25 ICT" duration-ms="2599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:45:25 ICT" name="setUp" finished-at="2021-11-19T22:45:26 ICT" duration-ms="1179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="SendmailUnsuccessfullyEmpty_3Field()[pri:2, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:45:26 ICT" name="SendmailUnsuccessfullyEmpty_3Field" finished-at="2021-11-19T22:45:28 ICT" duration-ms="1878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendmailUnsuccessfullyEmpty_3Field -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:45:28 ICT" name="teardown" finished-at="2021-11-19T22:45:30 ICT" duration-ms="2164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:45:30 ICT" name="beforeTest" finished-at="2021-11-19T22:45:33 ICT" duration-ms="2644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:45:33 ICT" name="setUp" finished-at="2021-11-19T22:45:34 ICT" duration-ms="1181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="SendmailUnsuccessfullyEmpty_2Field()[pri:3, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:45:34 ICT" name="SendmailUnsuccessfullyEmpty_2Field" finished-at="2021-11-19T22:45:36 ICT" duration-ms="1784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendmailUnsuccessfullyEmpty_2Field -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:45:36 ICT" name="teardown" finished-at="2021-11-19T22:45:38 ICT" duration-ms="2182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:45:38 ICT" name="beforeTest" finished-at="2021-11-19T22:45:41 ICT" duration-ms="2645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:45:41 ICT" name="setUp" finished-at="2021-11-19T22:45:42 ICT" duration-ms="1192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="SendmailUnsuccessfullyEmpty_1Field()[pri:4, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:45:42 ICT" name="SendmailUnsuccessfullyEmpty_1Field" finished-at="2021-11-19T22:45:44 ICT" duration-ms="1787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendmailUnsuccessfullyEmpty_1Field -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:45:44 ICT" name="teardown" finished-at="2021-11-19T22:45:46 ICT" duration-ms="2173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:45:46 ICT" name="beforeTest" finished-at="2021-11-19T22:45:48 ICT" duration-ms="2654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:45:48 ICT" name="setUp" finished-at="2021-11-19T22:45:50 ICT" duration-ms="1351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="SendmailUnsuccessfully_Invalid_Phone()[pri:5, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:45:50 ICT" name="SendmailUnsuccessfully_Invalid_Phone" finished-at="2021-11-19T22:45:51 ICT" duration-ms="1723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendmailUnsuccessfully_Invalid_Phone -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:45:51 ICT" name="teardown" finished-at="2021-11-19T22:45:54 ICT" duration-ms="2173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:45:54 ICT" name="beforeTest" finished-at="2021-11-19T22:45:56 ICT" duration-ms="2729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:45:56 ICT" name="setUp" finished-at="2021-11-19T22:45:58 ICT" duration-ms="1160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="SendmailUnsuccessfully_Invalid_Email()[pri:6, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:45:58 ICT" name="SendmailUnsuccessfully_Invalid_Email" finished-at="2021-11-19T22:45:59 ICT" duration-ms="1730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendmailUnsuccessfully_Invalid_Email -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:45:59 ICT" name="teardown" finished-at="2021-11-19T22:46:01 ICT" duration-ms="2172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:46:01 ICT" name="beforeTest" finished-at="2021-11-19T22:46:04 ICT" duration-ms="2571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:46:04 ICT" name="setUp" finished-at="2021-11-19T22:46:05 ICT" duration-ms="1227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="SendmailSuccessfully()[pri:7, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:46:05 ICT" name="SendmailSuccessfully" finished-at="2021-11-19T22:46:17 ICT" duration-ms="11728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendmailSuccessfully -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.TCs_Contact@4690b489]" started-at="2021-11-19T22:46:17 ICT" name="teardown" finished-at="2021-11-19T22:46:19 ICT" duration-ms="2181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.TCs_Contact -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
